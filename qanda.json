@@ -1,0 +1,68 @@
+{
+    "questions": [
+        {
+            "question": "What is photosynthesis?",
+            "answer": "Photosynthesis is the process by which green plants, algae, and some bacteria convert light energy into chemical energy in the form of glucose, using carbon dioxide and water as raw materials. This process releases oxygen as a byproduct."
+        },
+        {
+            "question": "What is DNA?",
+            "answer": "DNA, or deoxyribonucleic acid, is a molecule that carries the genetic instructions for the development, functioning, growth, and reproduction of all known living organisms and many viruses."
+        },
+        {
+            "question": "What is mitosis?",
+            "answer": "Mitosis is a process of cell division in which a single cell divides to produce two genetically identical daughter cells. It is essential for growth, repair, and maintenance of multicellular organisms."
+        },
+        {
+            "question": "What is the difference between mitosis and meiosis?",
+            "answer": "Mitosis is a process of cell division that produces two genetically identical daughter cells, each with the same number of chromosomes as the parent cell. Meiosis, on the other hand, is a specialized type of cell division that produces gametes (sperm and egg cells) with half the number of chromosomes of the parent cell, necessary for sexual reproduction."
+        },
+        {
+            "question": "What is an enzyme?",
+            "answer": "An enzyme is a biological catalyst, typically a protein, that speeds up the rate of a chemical reaction by lowering the activation energy required for the reaction to occur. Enzymes are crucial for various metabolic processes in living organisms."
+        },
+        {
+            "question": "What is the structure of a virus?",
+            "answer": "A virus is a submicroscopic infectious agent that consists of genetic material, either DNA or RNA, enclosed in a protein coat called a capsid. Some viruses may also have a lipid envelope derived from the host cell membrane."
+        },
+        {
+            "question": "What is the role of chloroplasts in plant cells?",
+            "answer": "Chloroplasts are cellular organelles found in plant cells and some algae. They are the site of photosynthesis, where light energy is converted into chemical energy in the form of glucose. Chloroplasts contain chlorophyll, the green pigment that captures light energy."
+        },
+        {
+            "question": "What is the function of the mitochondria?",
+            "answer": "Mitochondria are cellular organelles responsible for generating adenosine triphosphate (ATP), the primary energy currency of cells. They are often referred to as the 'powerhouses' of the cell due to their role in cellular respiration."
+        },
+        {
+            "question": "What is the difference between prokaryotic and eukaryotic cells?",
+            "answer": "Prokaryotic cells lack a nucleus and membrane-bound organelles, while eukaryotic cells have a nucleus and membrane-bound organelles such as mitochondria, chloroplasts, and the endoplasmic reticulum. Prokaryotic cells are typically smaller and simpler in structure compared to eukaryotic cells."
+        },
+        {
+            "question": "What is natural selection?",
+            "answer": "Natural selection is the process by which organisms that are better adapted to their environment tend to survive and reproduce more successfully than those that are less adapted, leading to the gradual evolution of species over time."
+        },
+        {
+            "question": "What is the role of DNA in protein synthesis?",
+            "answer": "DNA serves as the template for protein synthesis. During protein synthesis, the DNA sequence is transcribed into messenger RNA (mRNA), which carries the genetic code from the nucleus to the ribosomes in the cytoplasm. At the ribosomes, the mRNA is translated into a specific sequence of amino acids, forming a protein."
+        },
+        {
+            "question": "What is the structure of a neuron?",
+            "answer": "A neuron, also known as a nerve cell, consists of three main parts: the cell body (soma), dendrites, and axon. Dendrites receive signals from other neurons or sensory receptors, while the axon transmits signals away from the cell body to other neurons, muscles, or glands."
+        },
+        {
+            "question": "What is the difference between diffusion and osmosis?",
+            "answer": "Diffusion is the movement of molecules from an area of higher concentration to an area of lower concentration, while osmosis is the diffusion of water molecules across a selectively permeable membrane from a region of lower solute concentration to a region of higher solute concentration."
+        },
+        {
+            "question": "What are the stages of the cell cycle?",
+            "answer": "The cell cycle consists of interphase, which is divided into three stages (G1, S, and G2), and mitosis (or meiosis in sexually reproducing organisms). During interphase, the cell grows, replicates its DNA, and prepares for cell division. Mitosis is the division of the cell's nucleus, followed by cytokinesis, the division of the cytoplasm."
+        },
+        {
+            "question": "What is the function of ribosomes?",
+            "answer": "Ribosomes are cellular organelles responsible for protein synthesis. They read the mRNA produced during transcription and link together amino acids to form a polypeptide chain, which folds into a functional protein."
+        },
+        {
+            "question": "What is the difference between a genotype and a phenotype?",
+            "answer": "A genotype refers to the genetic makeup of an organism, including all the genes and alleles it possesses. A phenotype, on the other hand, refers to the observable characteristics or traits of an organism, which result from the interaction between its genotype and the environment."
+        }
+    ]
+}
