@@ -5,9 +5,10 @@ import os
 def setup():
     config = Configuration()
     mongo_uri = os.getenv('MONGO_URI')  # Replace with your actual MongoDB URI
-    db_name = 'Biology-buddy'
+    db_name = 'mental-helth-q-a'
     collection_name = 'QandA'
-    json_path = 'qanda.json'
+    # json_path = 'qanda.json'
+    json_path = 'Mental_Health_FAQ.json'
 
     data_manager = DataManager(mongo_uri, db_name, collection_name, json_path=json_path)
     document_processor = DocumentProcessor(data_manager, config.embed_model)

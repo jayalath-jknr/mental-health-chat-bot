@@ -132,10 +132,9 @@ def initialize_tru():
         st.session_state.tru = Tru()
 
 def main():
-    st.title('🔍 Biology Buddy')
+    st.title('🔍 Mind Buddy')
     st.markdown("""
-    Welcome to the **Biology Buddy**! 🌟 This tool is designed to process your biology related queries with precision and provide real-time feedback. 
-    Use this system to harness powerful insights from your data, interactively and efficiently.
+    Welcome to the **Mind buddy**! 🌟 This tool is designed to process your Mental health related quaries related queries with precision and provide real-time feedback. 
     """)
 
     initialize_tru()
